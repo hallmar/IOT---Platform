@@ -1,0 +1,22 @@
+Partlist exported from C:/Users/Hallmar Gauti/Documents/eagle/SKóli/IOT Project/IOT Project/OLED Board.sch at 19/06/2019 22:11
+
+Part Value            Device           Package          Description                                  MF MPN          OC_FARNELL OC_NEWARK
+C1   10n              C-EUC1206        C1206            CAPACITOR, European symbol                                                       
+C2   10n              C-EUC1206        C1206            CAPACITOR, European symbol                                                       
+R1   10k              R-EU_M1206       M1206            RESISTOR, European symbol                                                        
+R2   10k              R-EU_M1206       M1206            RESISTOR, European symbol                                                        
+R3   10k              R-EU_M1206       M1206            RESISTOR, European symbol                                                        
+R4   10k              R-EU_M1206       M1206            RESISTOR, European symbol                                                        
+R5   10k              R-EU_M1206       M1206            RESISTOR, European symbol                                                        
+R6   10k              R-EU_M1206       M1206            RESISTOR, European symbol                                                        
+R7   10k              R-EU_M1206       M1206            RESISTOR, European symbol                                                        
+R8   10k              R-EU_M1206       M1206            RESISTOR, European symbol                                                        
+S1                    10-XX            B3F-10XX         OMRON SWITCH                                    B3F-1000     176432     36M3542  
+S2                    10-XX            B3F-10XX         OMRON SWITCH                                    B3F-1000     176432     36M3542  
+S3                    10-XX            B3F-10XX         OMRON SWITCH                                    B3F-1000     176432     36M3542  
+SV1                   MA10-1           MA10-1           PIN HEADER                                                   unknown    unknown  
+SV2                   MA10-1           MA10-1           PIN HEADER                                                   unknown    unknown  
+SV3                   MA10-1           MA10-1           PIN HEADER                                                   unknown    unknown  
+SV4                   MA10-1           MA10-1           PIN HEADER                                                   unknown    unknown  
+SW1  EC12E_SW         EC12E_SW         ALPS_EC12E_SW    ALPS rotary Encoder EC12E series with switch    EC12E2424407 1520813    74M1068  
+U$1  OLED-1.3"-164-32 OLED-1.3"-164-32 OLED-1.3"-164-32                                                                                  

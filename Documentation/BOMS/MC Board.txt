@@ -1,0 +1,13 @@
+Partlist exported from C:/Users/Hallmar Gauti/Documents/eagle/SKóli/IOT Project/IOT Project/MC Board.sch at 19/06/2019 22:11
+
+Part Value                  Device                 Package       Description               MF MPN OC_FARNELL OC_NEWARK
+JP3                         PINHD-2X12/90          2X12/90       PIN HEADER                                           
+R1   1k                     R-EU_M1206             M1206         RESISTOR, European symbol                            
+R2   1.5k                   R-EU_M1206             M1206         RESISTOR, European symbol                            
+SV1                         MA10-1                 MA10-1        PIN HEADER                       unknown    unknown  
+SV2                         MA10-1                 MA10-1        PIN HEADER                       unknown    unknown  
+SV3                         MA10-1                 MA10-1        PIN HEADER                       unknown    unknown  
+SV4                         MA10-1                 MA10-1        PIN HEADER                       unknown    unknown  
+U1   HUZZAH32-ESP32-FEATHER HUZZAH32-ESP32-FEATHER ESP32-FEATHER                                                      
+U2   MIC2009A               MIC2009A               MIC2009A                                                           
+U3   MIC2009A               MIC2009A               MIC2009A                                                           
