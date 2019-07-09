@@ -1,6 +1,6 @@
 
 
-# IOT---Platform
+# Modular IOT Platform
 Commissioned a modular IOT Platform for teaching purposes. 
 
 Mouser Cart: https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=9a8a02e45e
