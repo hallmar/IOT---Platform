@@ -1,7 +1,7 @@
 
 
 # Modular IOT Platform
-Commissioned a modular IOT Platform for teaching purposes. 
+Commissioned a modular IOT Platform for teaching purposes. There's a basic program in the 'Software' folder which is simply an IO test for the buttons and a test for the OLED.
 
 Mouser Cart: https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=9a8a02e45e
 
